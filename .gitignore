@@ -1,4 +1,4 @@
-/node_modules
-/out
+/typescript/node_modules
+/typescript/out
 
 .DS_Store
