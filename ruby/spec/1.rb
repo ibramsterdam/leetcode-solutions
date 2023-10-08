@@ -1,6 +1,6 @@
-require_relative "../problem/1_two_sum.rb"
+require_relative "../problem/1.rb"
 
-describe "Problem 1" do
+describe "Problem 1" do1_two_sum
   it "returns [] with [1], 0" do
     expect(two_sum([1], 0)).to eq([])
   end
